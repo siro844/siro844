@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srinath Reddy</h1>
 <h3 align="center">A passionate fullstack developer from Mumbai,India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siro844&label=Profile%20views&color=0e75b6&style=flat" alt="siro844" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siro844&label=Profile%20views&color=0e75b6&style=fla" alt="siro844" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
