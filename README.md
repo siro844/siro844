@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Machine learning<br><br>💬 Ask me about flutter,java,kotlin<br><br>📫 How to reach me srinathreddy239@gmail.com<br><br>⚡ Fun fact Beyond code, I enjoy experimenting with design. Currently learning Figma to add a creative flair to my projects.
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif"
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srinath_reddy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srinath Reddy) 
