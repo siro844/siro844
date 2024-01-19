@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siro844&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
+![Snake animation](https://github.com/{{siro844}}/{{siro844}}/blob/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siro844&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
