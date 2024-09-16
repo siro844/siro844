@@ -1,10 +1,43 @@
-# 💫 About Me:
-🖥️ I'm currently working on a voice controlled computer using langchain agents.<br><br>
-🌱 I’m currently learning Machine learning , AI Frameworks to try automate some boring stuff and build some cool projects.<br><br>💬 Ask me about flutter,langchain.<br>
-<br>📫 How to reach me srinathreddy239@gmail.com<br>
-<br>⚡ Fun fact Beyond code, I enjoy experimenting with design. Currently learning Figma to add a creative flair to my projects.I also like playing guitar (although I am very bad at it).
+```python
+class Attributes(Siro):
+	@staticmethod
+	def contact() -> tuple:
+	    email    = "srinathreddy239@gmail.com"
+	    linkedin = "https://www.linkedin.com/in/srinath-reddy-8659a9290/"
+	    
+	    return email, linkedin
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['English', 'Hindi']
+		nationality   = 'Indian'
+		age           = 19
+		
+		return langs, nationality, age
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs 	      = {
+				'expert'      : ['python'],
+				'intermediate': ['dart', 'java','javascript']
+				}
+    
+                databases     = ['SupaBase','MongoDB','FireBase']
+                frameworks    = ['langchain','FastAPI','Flask','tensorflow','Pytorch','langgraph','React.js','Node.js']
+                specialities  = ['web/app' 'AI']
+		environnement = ['vscode', 'pycharm']
+		
+		return langs, databases, frameworks, specialities, environnement
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif">
+```
+
+<!-- 	@staticmethod
+	def projects() -> tuple:
+		Web/App   = ['HQ Gen', 'Raid Toolkit']
+		AI    = ['view bot', 'Algorithms']
+		Crypto = ['Gen', 'Botting']
+		
+    return discord, tiktok, instagram, twitch, website -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srinath_reddy2) 
