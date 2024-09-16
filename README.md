@@ -23,7 +23,8 @@ class Attributes(Siro):
 				}
     
                 databases     = ['SupaBase','MongoDB','FireBase']
-                frameworks    = ['langchain','FastAPI','Flask','tensorflow','Pytorch','langgraph','React.js','Node.js']
+                frameworks    = ['langchain','FastAPI','Flask','tensorflow','Pytorch',
+				'langgraph','React.js','Node.js']
                 specialities  = ['web/app' 'AI']
 		environnement = ['vscode', 'pycharm']
 		
