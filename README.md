@@ -22,7 +22,7 @@ class Attributes(Siro):
 				'intermediate': ['dart', 'java','javascript']
 				}
     
-                databases     = ['SupaBase','MongoDB','FireBase']
+                databases     = ['SupaBase','MongoDB','FireBase','PostgreSQL']
                 frameworks    = ['langchain','FastAPI','Flask','tensorflow','Pytorch',
 				'langgraph','React.js','Node.js']
                 specialities  = ['web/app' 'AI']
