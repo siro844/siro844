@@ -3,7 +3,7 @@ class Attributes(Siro):
 	@staticmethod
 	def contact() -> tuple:
 	    email    = "srinathreddy239@gmail.com"
-	    linkedin = "https://www.linkedin.com/in/srinath-reddy-8659a9290/"
+	    linkedin = "https://www.linkedin.com/in/srinath2709"
 	    
 	    return email, linkedin
 	
