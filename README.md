@@ -49,7 +49,7 @@ class Attributes(Siro):
 
 ## 📊 GitHhub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=siro844&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=siro844&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)<br/>
 
 ## Oh No My contributions :( 
 ![snake gif](https://github.com/siro844/siro844/blob/output/snake.svg)
